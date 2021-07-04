@@ -1,4 +1,4 @@
-- 👋 Hi, I’m AP.
+- 👋 Hi, I’m Audrey.
 - 👀 I enjoy swimming, hanging with friends, and reading.
 - 🌱 I’m currently learning JS, Java, C++, Python, and HTML.
 - 💞️ Let's collaborate!
